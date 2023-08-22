@@ -1,0 +1,31 @@
+name: lapis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - pyarrow
+  - beautifulsoup4
+  - html5lib
+  - geopandas
+  - python=3.10
+  - geopandas
+  - matplotlib
+  - plotly
+  - bokeh
+  - numpy
+  - scipy
+  - python-pdal
+  - whitebox
+  - ipykernel
+  - ipywidgets
+  - leafmap
+  - jupyter
+  - laspy
+  - pyvista
+  - pyntcloud
+  - ipyvolume
+  - trame
+  # - mkdocs
+  # - mkdocstrings
+  # - mkdocs-material
