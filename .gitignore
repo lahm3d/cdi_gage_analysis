@@ -2,3 +2,6 @@
 data/
 __pycache__/
 old/
+docs/*
+mkdocs.yml
+demo_data/
