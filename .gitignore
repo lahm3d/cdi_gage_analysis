@@ -2,5 +2,5 @@
 data/
 __pycache__/
 old/
-docs/*
+docs/
 mkdocs.yml
