@@ -10,3 +10,10 @@ We will develop reproducible workflows in R and Python to combine already existi
 * Tristan G Mohs (tmohs@usgs.gov)
 * Gregory B Noe (gnoe@usgs.gov)
 
+
+### Interactive Document
+This jupyter notebook is an interactive document with explanations followed by code snippets and interactive widgets. 
+
+To launch the interactive document. Please click on `launch binder` button below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lahm3d/cdi_gage_analysis.git/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Flahm3d%2Fcdi_gage_analysis%2Fblob%2Fdev%2Fcdi_gage_analysis_notebook.ipynb)

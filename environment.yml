@@ -11,8 +11,8 @@ dependencies:
   - python=3.10
   - geopandas
   - matplotlib
-  - plotly
-  - bokeh
+  # - plotly
+  # - bokeh
   - numpy
   - scipy
   - python-pdal
@@ -23,8 +23,6 @@ dependencies:
   - jupyter
   - laspy
   - pyvista
-  - pyntcloud
-  - ipyvolume
   - trame
   # - mkdocs
   # - mkdocstrings
