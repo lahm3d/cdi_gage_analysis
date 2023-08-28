@@ -4,4 +4,3 @@ __pycache__/
 old/
 docs/*
 mkdocs.yml
-demo_data/

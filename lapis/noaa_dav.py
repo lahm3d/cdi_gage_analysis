@@ -9,7 +9,7 @@ def scrape_digital_coast_repo():
     Scrapes the digital coast repository and saves the data as a Parquet file.
     """
     url = "https://coast.noaa.gov/htdata/lidar1_z/"
-    parquet = 'demo_data/noaa_dav.parquet'
+    parquet = 'data/noaa_dav.parquet'
 
     if Path(parquet).is_file():
         return pd.read_parquet(parquet)

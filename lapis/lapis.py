@@ -361,7 +361,7 @@ class ProcessLidarCollections:
         return self.collections
 
 
-def fetch_lidar(gdf, geometry_method, write=False, out_las="demo_data/demo_lidar.las"):
+def fetch_lidar(gdf, geometry_method, write=False, out_las="data/demo_lidar.las"):
     """
     Fetches lidar data using an EPT URL from a GeoDataFrame.
 
