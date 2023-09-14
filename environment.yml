@@ -24,6 +24,7 @@ dependencies:
   - laspy
   - pyvista
   - trame
+  - dataretrieval
   # - mkdocs
   # - mkdocstrings
   # - mkdocs-material
