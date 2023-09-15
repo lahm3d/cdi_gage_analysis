@@ -22,6 +22,7 @@ dependencies:
   - leafmap
   - jupyter
   - laspy
+  - pyntcloud
   - pyvista
   - trame
   - dataretrieval
