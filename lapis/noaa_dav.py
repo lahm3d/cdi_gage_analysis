@@ -46,6 +46,8 @@ def scrape_digital_coast_repo():
         digital_coast_repo['Potree'] = digital_coast_repo['Potree'].astype(str)
         digital_coast_repo['footprint'] = digital_coast_repo['footprint'].astype(str)
         digital_coast_repo['Tile Index'] = digital_coast_repo['Tile Index'].astype(str)
+        digital_coast_repo['STAC'] = digital_coast_repo['STAC'].astype(str)
+        digital_coast_repo['ID #'] = digital_coast_repo['ID #'].astype(str)
 
         digital_coast_repo = digital_coast_repo.replace(to_replace=[r'b?\'?<td>.*?</td>\'?', r'<td>.*?</td>'], value=pd.NA, regex=True)
 
